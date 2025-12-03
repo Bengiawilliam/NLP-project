@@ -1,0 +1,26 @@
+{
+  "name": "lamma3",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000L\u0000P\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bengiawilliam/NLP-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bengiawilliam/NLP-project/issues"
+  },
+  "homepage": "https://github.com/Bengiawilliam/NLP-project#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  }
+}
